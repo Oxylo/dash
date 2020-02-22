@@ -3,4 +3,6 @@ dash-core-components==1.8.0
 dash-html-components==1.0.2
 dash-renderer==1.2.4
 plotly==4.5.1
+pandas==1.0.1
+pandas_datareader==0.8.1
 
